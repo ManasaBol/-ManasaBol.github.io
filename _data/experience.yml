@@ -1,4 +1,9 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
+- role: Mentee
+  company: Microsoft
+  dates: July - Aug 2020
+  logo: microsoft.png
+
+- role: Intern
+  company: Wipro, Bangalore
   dates: Summer 2020
-  logo: fellowship.svg
+  logo: wipro.png
